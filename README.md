@@ -6,7 +6,7 @@ Hi, I'm Dhaval Mainkar!
 <br/>
 
 # 💫 About Me:
-💻 I am a self-taught Data Analyst and a Machine Learning Developer<br>👨🏽‍💻 Check out my blog at https://medium.com/@dhavalmainkar01<br>📚 I have a Bachelor in Computer Science from the University of Mumbai at India<br>📝 I have a strong interest in Data Science and Artificial Intelligence<br>🔭 Working on Deep Learning & Machine Learning<br>🌱 Learning about Computer Vision and Machine Learning stuff<br>🌟 Main languages: Python, SQL
+💻 I am a self-taught Data Analyst and a Machine Learning Developer<br>👨🏽‍💻 Check out my blog at https://medium.com/@dhavalmainkar01<br>📚 I have a Bachelor in Computer Science from the University of Mumbai<br>📝 I have a strong interest in Data Science and Artificial Intelligence<br>🔭 Working on Deep Learning & Machine Learning<br>🌱 Learning about Computer Vision and Machine Learning stuff<br>🌟 Main languages: Python, SQL
 
 ## 🛠️ My Favorite Tools
 
